@@ -1,6 +1,6 @@
 :root {
   /* Base theme variables - will be overridden by specific themes */
-  --book-width: min(1440px, 90vw);
+  --book-width: min(940px, 90vw);
   --book-height: min(800px, 80vh);
   --page-color: #ffffff;
   --text-color: #2c3e50;
